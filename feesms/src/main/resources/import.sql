@@ -1,0 +1,2 @@
+insert into fee (student_id, amount, fee_month, fee_year, date_of_payment) values (1, 1000, 'JANUARY', 2021, '2022-01-01');
+insert into fee (student_id, amount, fee_month, fee_year, date_of_payment) values (1, 2000, 'FEBRUARY', 2022, '2022-02-02');
